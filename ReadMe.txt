@@ -1,8 +1,3 @@
----
-title: "ReadMe.Md"
-output: github_document
-author: "Syed Farhan Haider"
----
 
 ## Course Project Overview
 Johns Hopkins Data Science Specialization Getting and Cleaning Data Coursera Week 4 Class Project
